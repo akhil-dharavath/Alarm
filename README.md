@@ -1,1 +1,1 @@
-Link : https://akhildgithub.github.io/Alarm/
+Link : https://alarm-akhil.netlify.app/
